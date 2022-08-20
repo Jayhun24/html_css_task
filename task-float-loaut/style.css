@@ -1,0 +1,55 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: gray;
+    padding: 20px;
+   
+}
+
+.aside{
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 10vw;    
+    border: 1px solid white;
+}
+.aside2{
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 10vw;  
+    border: 1px solid white;
+    background-color:aqua;
+
+
+}
+.aside3{
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 10vw;  
+    border: 1px solid white;
+    background-color: aqua;
+}
+.aside4{
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 10vw;
+    border: 1px solid white;
+}
+
+main{
+    text-align: justify;
+    float: right;
+    width: 85vw;
+    font-size: larger;
+}
+
+footer{
+    background-color: gray;
+    padding: 20px;
+
+}
