@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    }
+     
+    body{
+    background-image: url("https://img1.wsimg.com/isteam/ip/ca668179-9b3d-4671-8902-37b1a1cee5b0/Fotolia_120721552_Subscription_Monthly_M.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:1000,cg:true/fx-gs");
+    opacity: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .navbar{
+        padding: 10px;
+         height: 8vh;
+          width: 100%;
+           background-color: white;
+            display: flex;
+             align-items: center;
+              flex-direction: row;
+             
+    }
+    
+    a{
+        margin: 0px auto;
+        text-decoration: none;
+        color: black;
+    }
+    
+    h2{
+        cursor: pointer;
+         color:darkgreen;
+        margin: 50px;
+    }
+    
+    a:hover{
+        color:chocolate;
+        transition: 0.5s;
+    }
+    
+    h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 250px;
+    color:black;
+    }
+    
+    p{
+    text-align: center;
+    padding-top: 10px;
+    }
+    
+    h5{
+        color:rgba(0, 0, 0, 0.855);
+        text-align: center;
+        border: 1px solid black;
+        margin-top: 100px;
+        margin-left: 700px;
+        margin-right: 700px;
+        padding: 10px;
+        cursor: pointer;
+    }
+    
+    footer{
+    
+        color:white;
+         background-color:darkgreen;
+          padding: 20px;
+    }
+    
+    .footer-content>a{
+    
+        color: white;
+         padding: 50px;
+          margin-right: 100px;
+    }
